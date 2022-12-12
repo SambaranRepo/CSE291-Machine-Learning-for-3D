@@ -1,0 +1,7 @@
+level,recall,rre(median),rre_symmetry(median),rte(median),pts_err(median),rre(mean),rre_symmetry(mean),rte(mean),pts_err(mean),rre(std),rre_symmetry(std),rte(std),pts_err(std),pose_acc_5.0deg_1.0cm,pose_acc_10.0deg_1.0cm,pose_acc_10.0deg_2.0cm,pose_acc_15.0deg_2.0cm
+1,1.0,54.44661237949903,1.6304307593637644,0.0010712545521806417,0.0015806308380821113,80.26162186616445,11.002925464213215,0.0026122476117428086,0.006659999303653194,79.22202355917813,23.82911349300903,0.0037378681485813344,0.014188951698043675,0.78,0.84,0.84,0.88
+2,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+3,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+4,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+5,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+all,1.0,54.44661237949903,1.6304307593637644,0.0010712545521806417,0.0015806308380821113,80.26162186616445,11.002925464213215,0.0026122476117428086,0.006659999303653194,79.22202355917813,23.82911349300903,0.0037378681485813344,0.014188951698043675,0.78,0.84,0.84,0.88

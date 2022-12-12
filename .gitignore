@@ -1,0 +1,6 @@
+lectures
+*training_data
+*models
+*.pkl
+testing_data
+
